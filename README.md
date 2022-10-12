@@ -1,5 +1,5 @@
 # STM32_Firmware_Authentication
-Bash script for STM32 firmware Authentication preparation 
+Bash script for STM32 firmware Authentication preparation. It comes from [MOOC course of STM32 Sucurity part 4](https://www.st.com/content/st_com/en/support/learning/stm32-education/stm32-moocs/STM32_security_in_practice.html)
 
 ## Usage
 * Generate ecc private key with NIST p256 curve
