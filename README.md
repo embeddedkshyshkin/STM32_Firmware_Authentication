@@ -29,4 +29,5 @@ Bash script for STM32 firmware Authentication preparation. It comes from [MOOC c
 * To finish, you need activate WRP protection of region where hash + signature + public key located
 * Make RDP to level at least 1
 
-## Author Shyshkin Kostiantyn (shyshkin.kostiantyn@gmail.com)
+## Author
+Shyshkin Kostiantyn (shyshkin.kostiantyn@gmail.com)
