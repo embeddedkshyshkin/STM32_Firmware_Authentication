@@ -37,7 +37,7 @@ fi
 rm -rf tmp
 mkdir tmp
 
-echo "binary file to be handled: " $(realpath G0_AppAuth.bin) 
+echo "binary file to be handled: " $(realpath $2) 
 printf "\n"
 
 echo "########## Calculate padding size ############"
